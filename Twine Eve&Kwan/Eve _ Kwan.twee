@@ -1,0 +1,262 @@
+:: StoryTitle
+Eve & Kwan
+
+
+:: StoryData
+{
+  "ifid": "51448969-DCF7-4A22-83C6-ACBBF94134A4",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "beat1",
+  "zoom": 1
+}
+
+
+:: "Danny, you should go now." {"position":"3500,400","size":"100,100"}
+"So I should put those towels back," Danny joked.
+"The towels you can keep," Benedict replied with a hint of amusement.
+"Good seeing you, Tess," Danny said, turning to leave.
+You look at him and finally respond, "Take care, Danny."
+
+The End
+
+
+:: "Don't sit" {"position":"1500,400","size":"100,100"}
+Danny notices, "You’re not wearing your ring."
+
+[[You respond, "I sold it. And I don't have a husband. Or didn't you get the papers?"]]
+[[You respond, "This is not your business now. Didn't you get the papers?"]]
+
+
+:: "Hey Terry, this is my ex-husband." {"position":"3100,400","size":"100,100"}
+"Danny Ocean," Danny stood up and greeted Terry.
+
+"Mr. Ocean, please forgive me for being late. There is a guest that requires my attention." Danny replied nonchalantly.
+
+"It's fine. Danny was just passing through the restaurant and spotted me," you explained.
+
+"Is that right?" Benedict raised an eyebrow. "Yeah, imagine the odds," Danny chimed in.
+
+"'Of all the gin joints in all the world...'" Benedict quoted, acknowledging the unlikely encounter, "You've been in prison until recently, how does it feel to be out?"
+
+You attempted to intervene,
+[[Let Danny stay.]]
+[[Let Danny leave.]]
+
+
+:: "I don't smoke" {"position":"1500,600","size":"100,100"}
+Danny notices, "You’re not wearing your ring."
+
+[[You respond, "I sold it. And I don't have a husband. Or didn't you get the papers?"]]
+[[You respond, "This is not your business now. Didn't you get the papers?"]]
+
+
+:: "I'm with Terry now." {"position":"2500,400","size":"100,100"}
+"Does he make you laugh?"Danny's question caught you off guard.
+
+"He doesn't make me cry." You couldn't hold back your bitterness as you recounted the aftermath of his actions. "The people you steal from, they're compensated. They move on. But I had to rebuild my life from scratch after what you did. 
+
+[[How do I reclaim those lost years, Danny?"]]
+
+
+:: "I've moved on, Danny. You can't just waltz back into my life like nothing happened." {"position":"2500,600","size":"100,100"}
+"Does he make you laugh?"Danny's question caught you off guard.
+
+"He doesn't make me cry." You couldn't hold back your bitterness as you recounted the aftermath of his actions. "The people you steal from, they're compensated. They move on. But I had to rebuild my life from scratch after what you did. 
+
+[[How do I reclaim those lost years, Danny?"]]
+
+
+:: "Just catching up... it's over now, Danny it's time for you to walk out that door" {"position":"3100,600","size":"100,100"}
+"Danny Ocean," Danny stood up and greeted Terry.
+
+"Mr. Ocean, please forgive me for being late. There is a guest that requires my attention." Danny replied nonchalantly.
+
+"It's fine. Danny was just passing through the restaurant and spotted me," you explained.
+
+"Is that right?" Benedict raised an eyebrow. "Yeah, imagine the odds," Danny chimed in.
+
+"'Of all the gin joints in all the world...'" Benedict quoted, acknowledging the unlikely encounter, "You've been in prison until recently, how does it feel to be out?"
+
+You attempted to intervene,
+[[Let Danny stay.]]
+[[Let Danny leave.]]
+
+
+:: "Spoken like a true ex-husband." {"position":"2900,600","size":"100,100"}
+"Do you remember what I said to you the first time we met?" you ask.
+"You said, 'You better know what you're doing,'" Danny recalls, "but I know what I'm doing."
+"What are you doing?" Late to the dining, Terry Benedict finally appeared before us.
+[["Just catching up... it's over now, Danny it's time for you to walk out that door"]]
+[["Hey Terry, this is my ex-husband."]]
+
+
+:: "What's happend?" {"position":"3500,600","size":"100,100"}
+"So I should put those towels back," Danny joked.
+"The towels you can keep," Benedict replied with a hint of amusement.
+"Good seeing you, Tess," Danny said, turning to leave.
+You look at him and finally respond, "Take care, Danny."
+
+The End
+
+
+:: "You should leave." {"position":"2900,400","size":"100,100"}
+"Do you remember what I said to you the first time we met?" you ask.
+"You said, 'You better know what you're doing,'" Danny recalls, "but I know what I'm doing."
+"What are you doing?" Late to the dining, Terry Benedict finally appeared before us.
+[["Just catching up... it's over now, Danny it's time for you to walk out that door"]]
+[["Hey Terry, this is my ex-husband."]]
+
+
+:: "You're a liar." {"position":"2300,300","size":"100,100"}
+Danny's demeanor shifted slightly, a hint of regret and sadness in his eyes. "I only lied about being a thief. But I don't do that anymore."
+
+Your mind raced with memories of his disappearance, the hurt and anger still fresh. Danny's sudden reappearance stirred a mix of emotions within you. You felt a surge of defiance as you responded,
+
+[["I've moved on, Danny. You can't just waltz back into my life like nothing happened."]]
+[["I'm with Terry now."]]
+
+
+:: "You're a thief and liar." {"position":"2300,700","size":"100,100"}
+Danny's demeanor shifted slightly, a hint of regret and sadness in his eyes. "I only lied about being a thief. But I don't do that anymore."
+
+Your mind raced with memories of his disappearance, the hurt and anger still fresh. Danny's sudden reappearance stirred a mix of emotions within you. You felt a surge of defiance as you responded,
+
+[["I've moved on, Danny. You can't just waltz back into my life like nothing happened."]]
+[["I'm with Terry now."]]
+
+
+:: "You're a thief." {"position":"2300,500","size":"100,100"}
+Danny's demeanor shifted slightly, a hint of regret and sadness in his eyes. "I only lied about being a thief. But I don't do that anymore."
+
+Your mind raced with memories of his disappearance, the hurt and anger still fresh. Danny's sudden reappearance stirred a mix of emotions within you. You felt a surge of defiance as you responded,
+
+[["I've moved on, Danny. You can't just waltz back into my life like nothing happened."]]
+[["I'm with Terry now."]]
+
+
+:: "You're thirty seconds late. I was about to send out a search." {"position":"1250,600","size":"100,100"}
+"Ellen Tess," the man called out your name. Hearing the voice, you couldn't help but look towards its source in surprise—Danny Ocean stood before you. "What are you doing here?" you asked, annoyed.
+
+"I'm out," Danny replied nonchalantly, taking a seat directly in front of you. "From prison. Remember the day I went for cigarettes and never came back? You must have noticed."
+
+[["I don't smoke"]]
+[["Don't sit"]]
+
+
+:: How do I reclaim those lost years, Danny?" {"position":"2700,500","size":"100,100"}
+"You can't. But what you can do is not let more time slip away."Danny's response was blunt. "If you no longer love me and want to build a future with someone else, I'll accept that. But not him."
+
+You felt a profound sense of irony as he still failed to realize what's wrong with him.
+[["Spoken like a true ex-husband."]]
+[["You should leave."]]
+
+
+:: Let Danny leave. {"position":"3300,400","size":"100,100"}
+"Terry, Danny was just about to..."
+"I just wanted to say hello, for old time's sake," Danny interjected.
+"I know everything that happens in my hotels," Benedict stated firmly.
+
+[["What's happend?"]]
+[["Danny, you should go now."]]
+
+
+:: Let Danny stay. {"position":"3300,600","size":"100,100"}
+"Terry, Danny was just about to..."
+"I just wanted to say hello, for old time's sake," Danny interjected.
+"I know everything that happens in my hotels," Benedict stated firmly.
+
+[["What's happend?"]]
+[["Danny, you should go now."]]
+
+
+:: Turn around and look at him. {"position":"1250,400","size":"100,100"}
+"Ellen Tess," the man called out your name. Hearing the voice, you couldn't help but look towards its source in surprise—Danny Ocean stood before you. "What are you doing here?" you asked, annoyed.
+
+"I'm out," Danny replied nonchalantly, taking a seat directly in front of you. "From prison. Remember the day I went for cigarettes and never came back? You must have noticed."
+[["I don't smoke"]]
+[["Don't sit"]]
+
+
+:: You insist, "Please leave now." {"position":"1900,600","size":"100,100"}
+Danny interjects, "What? Benedict?"
+
+As a passing waiter approaches, Danny waves and orders, "Whiskey and whiskey."
+
+You feel increasingly exasperated; despite your efforts to encourage him to leave, he remains unperturbed.
+
+Danny goes on, "Tess, you're doing a great job curating the museum. The Vermeer is quite good. Simple but vibrant. Although his work definitely fell off as he got older."
+
+Danny muses, "I always confuse Monet and Manet. Which one married his mistress?"
+
+[[You reply, "Monet."]]
+[[You reply, "Manet."]]
+[[You reply, "I don't care."]]
+
+
+:: You reply, "I don't care." {"position":"2100,300","size":"100,100"}
+Danny ignores you, absorbed in his own thoughts, "Right. Manet had syphilis."
+
+Danny's voice cut through the tension, "Alright, let's get straight to the point. I came here for you. I'm gonna move forward with my life, and I want you to be with me."
+[["You're a thief."]]
+[["You're a liar."]]
+[["You're a thief and liar."]]
+
+
+:: You reply, "Manet." {"position":"2100,500","size":"100,100"}
+Danny ignores you, absorbed in his own thoughts, "Right. Manet had syphilis."
+
+Danny's voice cut through the tension, "Alright, let's get straight to the point. I came here for you. I'm gonna move forward with my life, and I want you to be with me."
+[["You're a thief."]]
+[["You're a liar."]]
+[["You're a thief and liar."]]
+
+
+:: You reply, "Monet." {"position":"2100,700","size":"100,100"}
+Danny nods, "Right. Manet had syphilis."
+
+Danny's voice cut through the tension, "Alright, let's get straight to the point. I came here for you. I'm gonna move forward with my life, and I want you to be with me."
+[["You're a thief."]]
+[["You're a liar."]]
+[["You're a thief and liar."]]
+
+
+:: You respond, "I sold it. And I don't have a husband. Or didn't you get the papers?" {"position":"1700,600","size":"100,100"}
+Danny reflects, "My last day inside."
+
+
+[[You insist, "Please leave now."]]
+
+[[You urge, "Danny. Go. Now. Before..."]]
+
+
+:: You respond, "This is not your business now. Didn't you get the papers?" {"position":"1700,400","size":"100,100"}
+Danny reflects, "My last day inside."
+
+
+[[You insist, "Please leave now."]]
+
+[[You urge, "Danny. Go. Now. Before..."]]
+
+
+
+:: You urge, "Danny. Go. Now. Before..." {"position":"1900,400","size":"100,100"}
+Danny interjects, "What? Benedict?"
+
+As a passing waiter approaches, Danny waves and orders, "Whiskey and whiskey."
+
+You feel increasingly exasperated; despite your efforts to encourage him to leave, he remains unperturbed.
+
+Danny goes on, "Tess, you're doing a great job curating the museum. The Vermeer is quite good. Simple but vibrant. Although his work definitely fell off as he got older."
+
+Danny muses, "I always confuse Monet and Manet. Which one married his mistress?"
+
+[[You reply, "Monet."]]
+[[You reply, "Manet."]]
+[[You reply, "I don't care."]]
+
+
+:: beat1 {"position":"1075,500","size":"100,100"}
+You sit at the dining table, eagerly awaiting the arrival of your husband, Benedict. Behind you, you hear familiar footsteps approaching, and then feel a man's hand gently rest on your shoulder.
+[["You're thirty seconds late. I was about to send out a search."]]
+[[Turn around and look at him.]]
